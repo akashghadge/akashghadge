@@ -40,19 +40,6 @@
 <div align="center">
  
 # 📊 My Github Stats
-
-  <br/>
-    <a href="https://github.com/akashghadge/github-readme-stats"><img alt="Akash Ghadge's Github Stats" src="https://github-readme-stats.vercel.app/api?username=akashghadge&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/akashghadge/github-readme-stats"><img alt="Akash Ghadge's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashghadge&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
-<br/>
-<br/>
-
-<a href="https://github.com/akashghadge/github-readme-activity-graph"><img alt="Akash Ghadge's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=akashghadge&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
  ![trophy](https://github-profile-trophy.vercel.app/?username=akashghadge&row=1&no-bg=true)
 
  
@@ -69,4 +56,4 @@
 </p>
  
 ## ❤ Views and Followers
-<a href="https://github.com/akashghadge?tab=followers"><img src="https://img.shields.io/github/followers/akashghadge?label=Followers&style=social" alt="GitHub Badge"></a>   ![Profile views](https://gpvc.arturio.dev/akashghadge)  
+<a href="https://github.com/akashghadge?tab=followers"><img src="https://img.shields.io/github/followers/akashghadge?label=Followers&style=social" alt="GitHub Badge"></a>
