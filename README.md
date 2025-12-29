@@ -116,14 +116,12 @@ I’m a **Front-End Product Engineer at TCS iON GAMELab (TCS Digital)**, working
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akashghadge&theme=black-ice&hide_border=true" />
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=akashghadge&theme=tokyo-night&hide_border=true"
+  />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akashghadge&row=1&no-bg=true" />
-</p>
 
----
 
 ## 🤝 Connect With Me
 
