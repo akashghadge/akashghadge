@@ -30,21 +30,86 @@ I’m a **Front-End Product Engineer at TCS iON GAMELab (TCS Digital)**, working
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Languages and Tools
 
-### Languages
-`C` `C++` `JavaScript` `TypeScript` `Python` `SQL` `Solidity`
+<p align="left">
 
-### Frameworks & Libraries
-`React` `Next.js` `Vue` `Node.js` `Express`  
-`Phaser.js` `THREE.js` `Babylon.js`  
-`Redux` `Vuex` `GraphQL`
+<!-- Frontend -->
+<a href="https://reactjs.org/" target="_blank">
+  <img src="https://img.icons8.com/color/48/react-native.png"/>
+</a>
+<a href="https://nextjs.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48"/>
+</a>
+<a href="https://vuejs.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="48"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img src="https://img.icons8.com/color/48/javascript.png"/>
+</a>
+<a href="https://www.typescriptlang.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48"/>
+</a>
+<a href="https://www.w3.org/html/" target="_blank">
+  <img src="https://img.icons8.com/color/48/html-5.png"/>
+</a>
+<a href="https://www.w3schools.com/css/" target="_blank">
+  <img src="https://img.icons8.com/color/48/css3.png"/>
+</a>
+<a href="https://getbootstrap.com/" target="_blank">
+  <img src="https://img.icons8.com/color/48/bootstrap.png"/>
+</a>
 
-### Databases & Cloud
-`MongoDB` `MySQL` `GCP`
+<!-- Backend -->
+<a href="https://nodejs.org/" target="_blank">
+  <img src="https://img.icons8.com/color/48/nodejs.png"/>
+</a>
+<a href="https://expressjs.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
+</a>
+<a href="https://graphql.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="48"/>
+</a>
 
-### Tools
-`Git` `SVN` `Heroku` `SASS` `Material-UI` `Bootstrap` `Construct3`
+<!-- Databases -->
+<a href="https://www.mongodb.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="48"/>
+</a>
+<a href="https://www.mysql.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48"/>
+</a>
+
+<!-- Game / Graphics -->
+<a href="https://phaser.io/" target="_blank">
+  <img src="https://raw.githubusercontent.com/photonstorm/phaser/master/resources/Phaser-Logo-Small.png" width="48"/>
+</a>
+<a href="https://threejs.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="48"/>
+</a>
+<a href="https://www.babylonjs.com/" target="_blank">
+  <img src="https://cdn.worldvectorlogo.com/logos/babylonjs.svg" width="48"/>
+</a>
+
+<!-- Languages -->
+<a href="https://isocpp.org/" target="_blank">
+  <img src="https://isocpp.org/assets/images/cpp_logo.png" width="40"/>
+</a>
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://img.icons8.com/color/48/python.png"/>
+</a>
+
+<!-- Tools -->
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://img.icons8.com/color/48/git.png"/>
+</a>
+<a href="https://postman.com/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45"/>
+</a>
+<a href="https://cloud.google.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="48"/>
+</a>
+
+</p>
 
 ---
 
