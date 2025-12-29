@@ -1,59 +1,80 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img width="100%" src="https://i.imgur.com/iXuL1HG.png"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Akash
-<h3 align="center">I'm a Full Stack Developer and final year Computer Engineering Student.</h3>
+<h1 align="center">Hi 👋, I'm Akash Ghadge</h1>
+<h3 align="center">Front-End Product Engineer | Full Stack Developer | Competitive Programmer</h3>
 
- ## 🙋‍♂️ About Me
+---
 
+## 👨‍💻 About Me
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
- 
-- 🔥 I'm also enhancing myself in the field of **Computer Vision**
+I’m a **Front-End Product Engineer at TCS iON GAMELab (TCS Digital)**, working on large-scale 2D/3D web-based learning products. I specialize in building **scalable, high-performance UI systems**, interactive web games, and developer tooling with real production impact.
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
- 
-- 📫 How to reach me **asghadge6@gmail.com**
+- 💼 Currently at **Tata Consultancy Services** — Web Game Development (2D / 3D)
+- 🚀 Led **5+ end-to-end e-learning game projects** for grades 6–8
+- 🎮 Built **10+ interactive learning games** using Phaser.js, THREE.js & Babylon.js
+- ⚡ Reduced development effort by **30%** via reusable frameworks & SCORM adapters
+- 🏆 Awarded **Best Game Developer**, **Best Buddy Reviewer**, **Least Defects**
+- 🧠 Strong in **DSA & Competitive Programming (1500+ problems solved)**
 
-## 🚀 Languages and Tools:
+---
 
-<p align="left"> 
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
-    <a href="" target="_blank"> <img src="https://isocpp.org/assets/images/cpp_logo.png" alt="express" width="40" height="40"/> </a>
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-</p>
- 
+## 🧠 Competitive Programming
+
+- 🟦 **LeetCode Knight** — Max Rating **1952** (Top ~3%)
+- 🟨 **Codeforces Specialist** — Max Rating **1461**
+- 🟩 **CodeChef 4★** — Max Rating **1914**
+- 🏅 Global Ranks:
+  - **99th** in TCS Global Competitive Coding Contest (Feb 2024)
+  - **368 / 136,054** in TCS CodeVita
+  - **946 / 12,300+** in Google Kick Start Round G (Top 7.69%)
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+`C` `C++` `JavaScript` `TypeScript` `Python` `SQL` `Solidity`
+
+### Frameworks & Libraries
+`React` `Next.js` `Vue` `Node.js` `Express`  
+`Phaser.js` `THREE.js` `Babylon.js`  
+`Redux` `Vuex` `GraphQL`
+
+### Databases & Cloud
+`MongoDB` `MySQL` `GCP`
+
+### Tools
+`Git` `SVN` `Heroku` `SASS` `Material-UI` `Bootstrap` `Construct3`
+
+---
+
+## 📈 GitHub Stats
+
 <p align="center">
-    <a href="https://github.com/akashghadge/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Akash's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=akashghadge&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akashghadge&theme=black-ice&hide_border=true" />
 </p>
- 
-<div align="center">
- 
-# 📊 My Github Stats
- ![trophy](https://github-profile-trophy.vercel.app/?username=akashghadge&row=1&no-bg=true)
 
- 
-<br/>
-<br/>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=akashghadge&row=1&no-bg=true" />
+</p>
 
-## Connect with me:
+---
+
+## 🤝 Connect With Me
+
 <p align="left">
-
-<a href = "https://www.linkedin.com/in/akash-ghadge-724864198/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/akash_ghadge3/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-
-
+  <a href="https://www.linkedin.com/in/akash-ghadge-724864198/">
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
+  </a>
+  <a href="mailto:asghadge9@gmail.com">
+    <img src="https://img.icons8.com/color/48/000000/gmail.png"/>
+  </a>
 </p>
- 
-## ❤ Views and Followers
-<a href="https://github.com/akashghadge?tab=followers"><img src="https://img.shields.io/github/followers/akashghadge?label=Followers&style=social" alt="GitHub Badge"></a>
+
+---
+
+## ❤️ Followers
+
+<a href="https://github.com/akashghadge?tab=followers">
+  <img src="https://img.shields.io/github/followers/akashghadge?label=Followers&style=social" />
+</a>
